@@ -1,0 +1,15 @@
+{
+  "prompts": [
+    "What did I notice without judging it?",
+    "Did I try to fight a thought, or simply notice it?",
+    "What is one small thing I want to practise tomorrow?",
+    "Which thought today was actually useful?",
+    "Which thought kept returning, and what happened when I did not argue with it?",
+    "Where did I feel steady today, even for a moment?"
+  ],
+  "labelExamples": [
+    "I will fail the exam",
+    "Everyone is better prepared than me",
+    "I cannot focus today"
+  ]
+}

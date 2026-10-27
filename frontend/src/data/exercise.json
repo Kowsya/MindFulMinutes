@@ -1,0 +1,47 @@
+{
+  "title": "A moment to observe",
+  "duration": "About 2 minutes",
+  "intro": "An optional guided practice. You will not be asked to share or write anything, and nothing you think is recorded.",
+  "safetyNote": "You can stop at any time. If the exercise feels uncomfortable, stop and do something that feels steadying instead.",
+  "stopAnytime": true,
+  "steps": [
+    {
+      "id": "settle",
+      "title": "Get comfortable",
+      "text": "Sit or stand in a comfortable position. Keep your eyes open or closed, whichever feels better. You can stop at any time.",
+      "seconds": 15
+    },
+    {
+      "id": "attention",
+      "title": "Rest your attention",
+      "text": "Let your attention rest on something simple: the sounds around you, or the feeling of your breath. There is no need to change your breathing.",
+      "seconds": 20
+    },
+    {
+      "id": "arrive",
+      "title": "Let thoughts arrive",
+      "text": "Thoughts will probably appear. That is normal. When you notice one, silently say to yourself, “I am having the thought that…”",
+      "seconds": 30
+    },
+    {
+      "id": "notice",
+      "title": "Notice, do not chase",
+      "text": "If a thought is unwanted, acknowledge it and let it pass. If it is useful, you can keep it for later. You do not have to push anything away.",
+      "seconds": 30
+    },
+    {
+      "id": "close",
+      "title": "Close gently",
+      "text": "Widen your attention to the room around you. Take a moment before you move on. There is no right way to feel at this point.",
+      "seconds": 15
+    }
+  ],
+  "completion": {
+    "title": "You reached the end",
+    "text": "There is no right or wrong way to feel after a practice. If anything felt difficult, it is fine to stop practising and talk to someone you trust."
+  },
+  "stopped": {
+    "title": "You stopped, and that is completely fine",
+    "text": "Stopping is a valid choice. You can start again whenever you like, or leave it for another day."
+  }
+}

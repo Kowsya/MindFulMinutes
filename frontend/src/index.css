@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dawn (light) is the default; Dusk (dark) is toggled with data-theme="dusk". */
+:root {
+  --paper: 237 242 241;
+  --surface: 248 251 250;
+  --ink: 23 40 43;
+  --muted: 77 99 102;
+  --line: 207 220 218;
+  --tide: 43 107 112;
+  --dusk: 91 95 158;
+  --glow: 191 224 220;
+}
+[data-theme='dusk'] {
+  --paper: 15 26 29;
+  --surface: 22 38 42;
+  --ink: 230 240 238;
+  --muted: 157 180 178;
+  --line: 39 57 61;
+  --tide: 124 196 192;
+  --dusk: 163 167 230;
+  --glow: 30 59 62;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-paper font-sans text-ink antialiased;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+  }
+  h1,
+  h2,
+  h3 {
+    @apply font-serif text-ink;
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+  }
+  :focus-visible {
+    outline: 3px solid rgb(var(--dusk));
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation: none !important;
+      transition: none !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full px-5 py-2.5 font-medium transition-colors disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply bg-tide text-paper hover:opacity-90;
+  }
+  .btn-quiet {
+    @apply border border-line bg-surface text-ink hover:border-tide;
+  }
+  .panel {
+    @apply rounded-2xl border border-line bg-surface p-6;
+  }
+  .prose-limit {
+    max-width: 68ch;
+  }
+}

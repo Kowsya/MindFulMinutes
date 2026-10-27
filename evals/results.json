@@ -1,0 +1,317 @@
+{
+  "generatedAt": "2026-10-27T00:37:45.775794+00:00",
+  "summary": {
+    "pass": 41,
+    "fail": 0,
+    "warn": 7,
+    "not_run": 3
+  },
+  "results": [
+    {
+      "name": "article covers theme: thoughts",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "article covers theme: acceptance",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "article covers theme: self-awareness",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "article covers theme: steady practice",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "article covers theme: mental wellbeing",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "section 'no-fight' has idea/simple/example",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "section 'notice' has idea/simple/example",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "section 'self-awareness' has idea/simple/example",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "section 'practice' has idea/simple/example",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "section 'wellbeing' has idea/simple/example",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "reflection prompts present (>=3)",
+      "category": "content",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'nccih-meditation' has required fields",
+      "category": "research",
+      "status": "pass",
+      "detail": "missing: []"
+    },
+    {
+      "name": "research 'nccih-meditation' url is https",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'nccih-meditation' has a caution/limitation",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'nccih-meditation' manually verified by author",
+      "category": "research",
+      "status": "warn",
+      "detail": "Open the link and confirm the description, then set manuallyVerified to true."
+    },
+    {
+      "name": "research 'nhs-mindfulness' has required fields",
+      "category": "research",
+      "status": "pass",
+      "detail": "missing: []"
+    },
+    {
+      "name": "research 'nhs-mindfulness' url is https",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'nhs-mindfulness' has a caution/limitation",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'nhs-mindfulness' manually verified by author",
+      "category": "research",
+      "status": "warn",
+      "detail": "Open the link and confirm the description, then set manuallyVerified to true."
+    },
+    {
+      "name": "research 'apa-mindfulness' has required fields",
+      "category": "research",
+      "status": "pass",
+      "detail": "missing: []"
+    },
+    {
+      "name": "research 'apa-mindfulness' url is https",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'apa-mindfulness' has a caution/limitation",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'apa-mindfulness' manually verified by author",
+      "category": "research",
+      "status": "warn",
+      "detail": "Open the link and confirm the description, then set manuallyVerified to true."
+    },
+    {
+      "name": "research 'goyal-2014' has required fields",
+      "category": "research",
+      "status": "pass",
+      "detail": "missing: []"
+    },
+    {
+      "name": "research 'goyal-2014' url is https",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'goyal-2014' has a caution/limitation",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'goyal-2014' manually verified by author",
+      "category": "research",
+      "status": "warn",
+      "detail": "Open the link and confirm the description, then set manuallyVerified to true."
+    },
+    {
+      "name": "research 'khoury-2013' has required fields",
+      "category": "research",
+      "status": "pass",
+      "detail": "missing: []"
+    },
+    {
+      "name": "research 'khoury-2013' url is https",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'khoury-2013' has a caution/limitation",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'khoury-2013' manually verified by author",
+      "category": "research",
+      "status": "warn",
+      "detail": "Open the link and confirm the description, then set manuallyVerified to true."
+    },
+    {
+      "name": "research 'wegner-1987' has required fields",
+      "category": "research",
+      "status": "pass",
+      "detail": "missing: []"
+    },
+    {
+      "name": "research 'wegner-1987' url is https",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'wegner-1987' has a caution/limitation",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "research 'wegner-1987' manually verified by author",
+      "category": "research",
+      "status": "warn",
+      "detail": "Open the link and confirm the description, then set manuallyVerified to true."
+    },
+    {
+      "name": "no duplicate research URLs",
+      "category": "research",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "exercise has >= 3 steps",
+      "category": "exercise",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "every step has title, text and seconds",
+      "category": "exercise",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "exercise declares stop-anytime",
+      "category": "exercise",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "stop option stated in step text or safety note",
+      "category": "exercise",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "no outcome/cure promises detected (manual review of any hits)",
+      "category": "instruction",
+      "status": "warn",
+      "detail": "hits: ['cure', 'cures', 'guarantee']"
+    },
+    {
+      "name": "all target=_blank links use noopener",
+      "category": "security",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "no obvious secrets in repository files",
+      "category": "security",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "no dangerouslySetInnerHTML (safe rendering)",
+      "category": "security",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "no console.log / debugger left in src",
+      "category": "quality",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "index.html has lang attribute",
+      "category": "accessibility",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "index.html has a meaningful <title>",
+      "category": "accessibility",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "index.html has viewport meta",
+      "category": "accessibility",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "name": "browser accessibility audit (axe / Lighthouse)",
+      "category": "manual",
+      "status": "not_run",
+      "detail": "Run Lighthouse in Chrome DevTools on the deployed URL and record the scores."
+    },
+    {
+      "name": "performance audit",
+      "category": "manual",
+      "status": "not_run",
+      "detail": "Run Lighthouse (Performance) on the deployed URL and record the score."
+    },
+    {
+      "name": "live link check",
+      "category": "manual",
+      "status": "not_run",
+      "detail": "cd frontend && npm run check:links (needs internet)."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "note": "Curated by hand. Entries marked manuallyVerified:false must be opened and checked before submission. None of these sources is proof of the SpeakingTree article's claims.",
+  "items": [
+    {
+      "id": "nccih-meditation",
+      "topic": "Meditation and mindfulness overview",
+      "type": "Official guidance",
+      "title": "Meditation and Mindfulness: What You Need To Know",
+      "organisation": "National Center for Complementary and Integrative Health (NCCIH), US National Institutes of Health",
+      "investigated": "A plain-language summary of what is known about meditation and mindfulness, how they are practised, and what is understood about their safety.",
+      "relevance": "A balanced starting point on attention and mindfulness practice, written for the general public.",
+      "caution": "A general overview. It does not evaluate the article's specific ideas.",
+      "url": "https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know",
+      "manuallyVerified": false
+    },
+    {
+      "id": "nhs-mindfulness",
+      "topic": "Mindfulness for wellbeing",
+      "type": "Official guidance",
+      "title": "Mindfulness",
+      "organisation": "NHS (UK National Health Service)",
+      "investigated": "Practical public guidance on mindfulness and how paying attention to the present moment relates to mental wellbeing.",
+      "relevance": "Describes noticing thoughts and feelings as a way of understanding yourself, which parallels the article's self-awareness theme.",
+      "caution": "Public guidance, not a research study. It suggests speaking to a professional if you are struggling.",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/mindfulness/",
+      "manuallyVerified": false
+    },
+    {
+      "id": "apa-mindfulness",
+      "topic": "Mindfulness and stress",
+      "type": "Official guidance",
+      "title": "Mindfulness",
+      "organisation": "American Psychological Association (APA)",
+      "investigated": "A psychology resource hub on mindfulness, including how it is defined and how it is used in stress management.",
+      "relevance": "Connects thought observation and acceptance to how psychologists describe mindfulness.",
+      "caution": "A topic hub. Individual linked pages vary in the strength of their evidence.",
+      "url": "https://www.apa.org/topics/mindfulness",
+      "manuallyVerified": false
+    },
+    {
+      "id": "goyal-2014",
+      "topic": "Meditation programmes and psychological stress",
+      "type": "Systematic review and meta-analysis",
+      "title": "Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis",
+      "organisation": "JAMA Internal Medicine",
+      "authors": "Goyal M. et al.",
+      "year": 2014,
+      "investigated": "Reviewed 47 randomised clinical trials of meditation programmes across a range of mental and physical health outcomes.",
+      "relevance": "Shows how researchers test whether mindfulness-style programmes change outcomes such as anxiety, depression and stress.",
+      "caution": "Reviewed structured programmes, not the article's philosophy, and effects varied by outcome. It does not show meditation is better than other active treatments.",
+      "url": "https://doi.org/10.1001/jamainternmed.2013.13018",
+      "manuallyVerified": false
+    },
+    {
+      "id": "khoury-2013",
+      "topic": "Mindfulness-based therapy",
+      "type": "Systematic review and meta-analysis",
+      "title": "Mindfulness-based therapy: A comprehensive meta-analysis",
+      "organisation": "Clinical Psychology Review",
+      "authors": "Khoury B. et al.",
+      "year": 2013,
+      "investigated": "A meta-analysis of studies of mindfulness-based therapies for a range of psychological problems.",
+      "relevance": "Looks at therapy programmes that teach people to observe thoughts and feelings with acceptance.",
+      "caution": "Covers clinical therapy programmes delivered by trained professionals, which is different from a short self-guided exercise.",
+      "url": "https://doi.org/10.1016/j.cpr.2013.05.005",
+      "manuallyVerified": false
+    },
+    {
+      "id": "wegner-1987",
+      "topic": "Why fighting a thought can backfire",
+      "type": "Experimental study",
+      "title": "Paradoxical effects of thought suppression",
+      "organisation": "Journal of Personality and Social Psychology",
+      "authors": "Wegner D. M. et al.",
+      "year": 1987,
+      "investigated": "A laboratory study in which people were asked to deliberately not think about a specific thing, and how often the thought returned.",
+      "relevance": "Related to the idea that pushing a thought away can keep it in mind, which fits the article's point about not fighting every thought.",
+      "caution": "A small laboratory study of thought suppression. It was not a study of meditation and does not prove the article's claims.",
+      "url": "https://doi.org/10.1037/0022-3514.53.1.5",
+      "manuallyVerified": false
+    }
+  ]
+}

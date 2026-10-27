@@ -1,0 +1,75 @@
+{
+  "title": "Let Mind Think And You Simply Be",
+  "author": "Swami Bhoomananda Tirtha",
+  "source": "TOI SpeakingTree",
+  "centralMessage": "You do not have to fight every thought: notice your thoughts, recognise which ones are useful, and let unwanted ones pass without continually engaging with them.",
+  "scopeNote": "This page paraphrases the article's ideas as summarised in the project brief. Read the original article for the author's own words.",
+  "themes": ["thoughts", "acceptance", "self-awareness", "steady practice", "mental wellbeing"],
+  "sections": [
+    {
+      "id": "no-fight",
+      "themes": ["thoughts", "acceptance"],
+      "kind": "article",
+      "heading": "You do not have to fight every thought",
+      "idea": "Thoughts arise on their own. The article suggests that unwanted thoughts can sometimes be acknowledged without giving them continued attention.",
+      "simple": "Think of thoughts like passing traffic. You cannot stop every car, and you do not need to chase each one. Seeing a thought is different from feeding it.",
+      "example": "Before an exam a worry appears: “I might fail.” Instead of arguing with it for an hour, you notice it, think “there is that worry again,” and go back to your revision."
+    },
+    {
+      "id": "notice",
+      "themes": ["thoughts", "self-awareness"],
+      "kind": "article",
+      "heading": "Notice rather than react automatically",
+      "idea": "A thought can be observed. That is different from immediately believing it, judging it or acting on it. The article also speaks of recognising which thoughts are useful.",
+      "simple": "Adding the words “I am having the thought that…” creates a small gap between you and the thought. In that gap you can decide: is this useful, or can it pass?",
+      "example": "A student worried about an upcoming examination might notice, “I am having the thought that I will fail,” rather than treating it as a prediction of the future. A thought like “I should submit the assignment tonight” is useful, so they keep it and act on it.",
+      "note": "This illustrates thought observation. It is not a guarantee that stress will disappear."
+    },
+    {
+      "id": "self-awareness",
+      "themes": ["self-awareness"],
+      "kind": "article",
+      "heading": "Develop self-awareness",
+      "idea": "The article encourages understanding your own experience instead of treating every thought as a problem to eliminate.",
+      "simple": "Self-awareness here means getting curious about how your own mind works: which thoughts keep repeating, which ones help, and which ones simply pass.",
+      "example": "You notice your mind gets busiest in the evening. You do not judge it. You simply observe the pattern, which is useful information about yourself."
+    },
+    {
+      "id": "practice",
+      "themes": ["steady practice"],
+      "kind": "article",
+      "heading": "Find a steady, personal practice",
+      "idea": "The article describes steady practice as part of a person's approach to the mind.",
+      "simple": "A short, comfortable practice repeated regularly is easier to keep than a long one done rarely. Different approaches suit different people, and it is fine to adjust, pause or stop.",
+      "example": "Two minutes after lunch with your eyes open, or a short walk where you only listen to the sounds around you."
+    },
+    {
+      "id": "wellbeing",
+      "themes": ["mental wellbeing"],
+      "kind": "research",
+      "heading": "Mindfulness and mental wellbeing: where the article ends and research begins",
+      "idea": "The article offers a philosophical way of relating to the mind. It is not a scientific study.",
+      "simple": "Researchers study related ideas, such as attention, acceptance and stress, using specific methods. Those studies do not prove the article's claims, and mindfulness is not a cure or a replacement for professional care.",
+      "example": "Someone living with persistent anxiety or low mood might find mindfulness a helpful addition, but should still talk to a health professional about their care.",
+      "link": "/research"
+    }
+  ],
+  "myths": [
+    {
+      "myth": "Mindfulness means stopping all thoughts.",
+      "fact": "The article's message is nearly the opposite: thoughts will arise, and the practice is noticing them without fighting each one."
+    },
+    {
+      "myth": "Meditation cures mental health conditions.",
+      "fact": "Research on mindfulness-based programmes is mixed and depends on the condition and the programme. It is not a cure and does not replace professional support."
+    },
+    {
+      "myth": "Every mindfulness exercise suits everyone.",
+      "fact": "Some people find certain practices uncomfortable. You can stop at any time, and it is fine to choose a different approach."
+    },
+    {
+      "myth": "You need to practise for hours.",
+      "fact": "The article stresses steadiness over length. A short comfortable practice is a reasonable place to begin."
+    }
+  ]
+}
